@@ -8,6 +8,7 @@ Codebase for the fictional WKND site, showcasing the capabilities of Adobe's Edg
 
 ## Environments
 Preview: https://main--wknd--adobeyuta.hlx.page/
+
 Live: https://main--wknd--adobeyuta.hlx.live/
 
 ## Installation
